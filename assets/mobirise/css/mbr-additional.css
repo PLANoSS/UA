@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.24rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1338,7 +1338,7 @@ body {
   min-height: 100vh;
 }
 .cid-qAd8QzF691 {
-  background-image: url("../../../assets/images/dsc01555-2000x1500.jpg");
+  background-image: url("../../../assets/images/dsc02484-2000x1500.jpg");
 }
 .cid-qAd8QzF691 h1 {
   color: #616161;
@@ -1352,10 +1352,17 @@ body {
   font-style: italic;
 }
 .cid-qAd8QzF691 H1 {
-  color: #e4d295;
+  color: #149dcc;
   text-align: center;
 }
 .cid-qAd8QzF691 P {
+  color: #ffffff;
+  text-align: right;
+}
+.cid-qAd8QzF691 B {
+  color: #ffffff;
+}
+.cid-qAd8QzF691 H3 {
   color: #ffffff;
 }
 .cid-qAfVSvlUV2 .modal-body .close {
